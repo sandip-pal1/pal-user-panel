@@ -1,4 +1,4 @@
-PAL User Panel - GitHub README
+#PAL User Panel
 Badges:
 
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)
