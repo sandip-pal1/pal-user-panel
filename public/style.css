@@ -1,0 +1,126 @@
+/* public/style.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: #f7f7f7;
+    color: #333;
+}
+
+h1, h2 {
+    color: #444;
+}
+
+form, table {
+    background-color: white;
+    padding: 20px;
+    border-radius: 6px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+input, textarea, button {
+    padding: 10px;
+    margin-top: 8px;
+    margin-bottom: 12px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #fff;
+    border-radius: 6px;
+    overflow: hidden;
+    font-size: 14px;
+}
+
+th, td {
+    padding: 8px 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    vertical-align: middle;
+}
+
+th {
+    background-color: #f1f1f1;
+    color: #333;
+}
+
+td:last-child, td:nth-last-child(2) {
+    text-align: center;
+    white-space: nowrap;
+}
+
+button {
+    padding: 6px 10px;
+    font-size: 14px;
+    margin: 2px;
+}
+
+.center-box {
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.center-box h1, .center-box h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.center-box a button {
+    width: 250px;
+    margin: 8px 0;
+    text-align: center;
+}
+
+button {
+    padding: 12px 20px;              /* Bigger padding */
+    font-size: 16px;                 /* Bigger text */
+    width: 220px;                    /* Wider button */
+    border: none;
+    border-radius: 5px;
+    background-color: #007BFF;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+
+
+/* nav */
+
+nav {
+  background-color: #333;
+  padding: 12px;
+  margin-bottom: 20px;
+}
+nav a {
+  color: white;
+  margin-right: 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+nav a:hover {
+  text-decoration: underline;
+}
