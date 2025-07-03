@@ -16,6 +16,7 @@ Tech Stack:
 - Frontend: EJS Templates, HTML, CSS
 - Database: MySQL
 - Extras: @faker-js/faker (for dummy data)
+  
 Project Folder Structure:
 pal-user-panel/
 ├── views/              # EJS templates
