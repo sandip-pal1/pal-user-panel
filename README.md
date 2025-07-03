@@ -4,8 +4,9 @@ Badges:
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-Backend-lightgrey?logo=express)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql)
-![EJS](https://img.shields.io/badge/View-Engine-EJS-yellow?logo=ejs)
+![EJS](https://img.shields.io/badge/View--Engine-EJS-yellow)
 ![Made by Sandip Pal](https://img.shields.io/badge/Made%20by-Sandip%20Pal-blueviolet)
+
 
 Project Description:
 PAL User Panel is a simple, clean, and functional user management web application built with Node.js, Express.js, EJS, and MySQL. It allows users to add, view, edit, and delete users. It also displays the total number of users on the homepage. Ideal for learning CRUD operations.
